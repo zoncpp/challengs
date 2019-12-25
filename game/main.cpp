@@ -27,6 +27,7 @@ public:
 
 int main()
 {
+	//--- 3 players
 	Player orc("Orc", 7);
 	Player dragon("Dragon", 20);
 	Player _hero("Hero", 40);
