@@ -117,9 +117,3 @@ ApplicationWindow
         }
     }
 }
-/*##^##
-Designer {
-    D{i:2;anchors_x:142;anchors_y:20}D{i:3;anchors_x:270;anchors_y:20}D{i:4;anchors_x:142;anchors_y:20}
-D{i:5;anchors_x:20;anchors_y:20}D{i:6;anchors_x:260;anchors_y:20}
-}
-##^##*/
