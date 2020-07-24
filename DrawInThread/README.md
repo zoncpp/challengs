@@ -1,5 +1,6 @@
 # challengs
 # Draw in separate thread
+# Qt (widget)
 
 - Draw in Ui with a separate Thread
 
