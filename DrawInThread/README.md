@@ -1,4 +1,3 @@
-# challengs
 # Draw in separate thread
 # Qt (widget)
 
