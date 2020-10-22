@@ -1,3 +1,17 @@
+autoconf 
+configure and make software
 linux
 tcp or udp socket programming
 async thread
+
+//-----------------------------------------------
+compile:
+$ autoreconf -i
+$ ./configure
+$ make
+//-------------------------------------------------------
+Run:
+./ArvanProxy config/config.ini
+
+
+./ArvanClient config/config.ini
